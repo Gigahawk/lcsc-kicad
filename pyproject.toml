@@ -5,8 +5,8 @@ description = ""
 authors = ["Jasper Chan <jasperchan515@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-easyeda2kicad = "^0.5.4"
+python = "^3.6"
+easyeda2kicad = "*"
 
 [tool.poetry.dev-dependencies]
 
