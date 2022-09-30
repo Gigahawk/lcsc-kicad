@@ -35,10 +35,10 @@
   (pad "12" smd rect (at -2.26 -1.13 180) (size 0.3 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bdd09ebb-f967-4432-94ba-68b5e44e6e9b))
   (pad "13" smd rect (at -2.75 -1.13 180) (size 0.3 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 25601010-72cc-4c44-afd6-33565b5e5edd))
   (pad "14" smd rect (at -3.26 -1.13 180) (size 0.3 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 75952c82-bbb3-4986-8c60-f02bab1914c7))
-  (pad "15" smd rect (at -4.9 1.13) (size 2 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fe98015c-ec36-49fe-a4ff-76025cc651fc))
+  (pad "15" smd rect (at -4.9 1.12) (size 2 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fe98015c-ec36-49fe-a4ff-76025cc651fc))
   (pad "16" smd rect (at 4.9 1.12 180) (size 2 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d6fa202-0dae-4c45-b34b-5632d839c139))
   (model "${KIPRJMOD}/lcsc-kicad/lcsc.3dshapes/FPC-SMD_14P-L12.5-W5.4-H2.0-P0.50.wrl"
-    (offset (xyz -0 -0.97 -0))
+    (offset (xyz -0 -1.02 -0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
