@@ -31,7 +31,7 @@
   (pad "7" smd oval (at -0.63 -3.53) (size 0.63 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a583de23-3c74-4007-bdce-ecc6f9dbe010))
   (pad "8" smd oval (at -1.91 -3.53) (size 0.63 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0345509e-dbff-4fb5-9059-bc7781b5488b))
   (model "${KIPRJMOD}/lcsc-kicad/lcsc.3dshapes/SOIC-8_L5.3-W5.3-H1.9-LS7.9-P1.27.wrl"
-    (offset (xyz 0 0 -0))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
