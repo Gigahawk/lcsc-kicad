@@ -1719,7 +1719,7 @@
     (property "Value" "TP4056M" (id 1) (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm" (id 2) (at 0 -20.32 0)
+    (property "Footprint" "Gigahawk:MSOP-8-1EP_3x3mm_P0.65mm_EP1.425x1.76mm" (id 2) (at 0 -20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://lcsc.com/product-detail/PMIC-AC-DC-Converters_TP4056M_C21417.html" (id 3) (at 0 -22.86 0)
